@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://gnehuy.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://gnehuy.github.io/"/>
+  <updated>2022-07-12T05:28:59.895Z</updated>
+  <id>https://gnehuy.github.io/</id>
+  
+  <author>
+    <name>DeHors</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="https://gnehuy.github.io/2022/07/12/my-new-post/"/>
+    <id>https://gnehuy.github.io/2022/07/12/my-new-post/</id>
+    <published>2022-07-12T05:22:13.000Z</published>
+    <updated>2022-07-12T05:28:59.895Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一次测试！&quot;&gt;&lt;a href=&quot;#这是一次测试！&quot; class=&quot;headerlink&quot; title=&quot;这是一次测试！&quot;&gt;&lt;/a&gt;这是一次测试！&lt;/h1&gt;&lt;h2 id=&quot;第一次尝试用hexo搭建个人博客&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://gnehuy.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gnehuy.github.io/2022/07/12/hello-world/"/>
+    <id>https://gnehuy.github.io/2022/07/12/hello-world/</id>
+    <published>2022-07-12T05:13:11.323Z</published>
+    <updated>2022-07-12T05:13:11.323Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
