@@ -6,7 +6,7 @@
   <link href="https://gnehuy.github.io/atom.xml" rel="self"/>
   
   <link href="https://gnehuy.github.io/"/>
-  <updated>2022-07-19T13:39:52.592Z</updated>
+  <updated>2022-07-27T08:58:32.624Z</updated>
   <id>https://gnehuy.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TypeScript</title>
+    <link href="https://gnehuy.github.io/2022/07/22/typescript/"/>
+    <id>https://gnehuy.github.io/2022/07/22/typescript/</id>
+    <published>2022-07-22T01:46:56.000Z</published>
+    <updated>2022-07-27T08:58:32.624Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;TypeScript-学习随记&quot;&gt;&lt;a href=&quot;#TypeScript-学习随记&quot; class=&quot;headerlink&quot; title=&quot;TypeScript 学习随记&quot;&gt;&lt;/a&gt;TypeScript 学习随记&lt;/h1&gt;&lt;p&gt;本文主要参考&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://gnehuy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="codia" scheme="https://gnehuy.github.io/tags/codia/"/>
+    
+    <category term="TypeScript" scheme="https://gnehuy.github.io/tags/TypeScript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript</title>
     <link href="https://gnehuy.github.io/2022/07/15/javascript/"/>
     <id>https://gnehuy.github.io/2022/07/15/javascript/</id>
     <published>2022-07-15T04:38:58.000Z</published>
-    <updated>2022-07-19T13:39:52.592Z</updated>
+    <updated>2022-07-22T01:47:39.742Z</updated>
     
     
       
@@ -37,9 +64,9 @@
     <category term="技术" scheme="https://gnehuy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="Javascript" scheme="https://gnehuy.github.io/tags/Javascript/"/>
-    
     <category term="codia" scheme="https://gnehuy.github.io/tags/codia/"/>
+    
+    <category term="JavaScript" scheme="https://gnehuy.github.io/tags/JavaScript/"/>
     
   </entry>
   
