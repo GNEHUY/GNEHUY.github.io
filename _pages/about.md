@@ -36,7 +36,7 @@ My research interest includes dense retrieval, generative retrieval and RAG.
 
 
 # 📖 Educations
-- *2024.06 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
+- *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei. 
 
 # 💬 Invited Talks
