@@ -20,7 +20,10 @@ I am currently pursuing a master's degree at the School of Artificial Intelligen
 
 I graduated from School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China with a bachelor’s degree.
 
-My research interest includes dense retrieval, generative retrieval and RAG. 
+My research interest includes:
+- Dense Retrieval
+- Generation-Augmented Retrieval
+- Large Language Model for Retrieval
 
 
 # 🔥 News
@@ -31,9 +34,9 @@ My research interest includes dense retrieval, generative retrieval and RAG.
 
 # 📝 Publications 
 
-
+<!--
 # 🎖 Honors and Awards
-
+-->
 
 # 📖 Educations
 - *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
