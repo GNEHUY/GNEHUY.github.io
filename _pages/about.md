@@ -38,7 +38,7 @@ My research interest includes:
 <!--
 # 🎖 Honors and Awards
 -->
-- ``ACL 2025`` [CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval](https://aclanthology.org/2025.findings-acl.303.pdf), **Heng Yu**, Junfeng Kang, Rui Li, Qi Liu, YLiyang He, Zhenya Huang, Shuanghong Shen, Junyu Lu
+- ``ACL 2025`` [CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval](https://aclanthology.org/2025.findings-acl.303.pdf), **Heng Yu**, Junfeng Kang, Rui Li, Qi Liu, Liyang He, Zhenya Huang, Shuanghong Shen, Junyu Lu
 - ``ACL 2025`` [PQR: Improving Dense Retrieval via Potential Query Modeling](https://aclanthology.org/2025.acl-long.660.pdf), Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, Zheng Zhang, Junzhe Jiang, **Heng Yu**, Yu Su
 - ``ACL 2025`` [UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.693.pdf), Rui Li, Liyang He, Qi Liu, Zheng Zhang, **Heng Yu**, Yuyang Ye, Linbo Zhu, Yu Su
 
