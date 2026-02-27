@@ -22,8 +22,13 @@ I graduated from School of Artificial Intelligence and Data Science, Univeristy 
 
 My research interest includes:
 - Dense Retrieval
-- Generation-Augmented Retrieval
+- Retrieval-Augmented Generation
 - Large Language Model for Retrieval
+
+Recent & Focused Explorations:
+- DeepResearch & AgenticRAG & Retrieval-Augmented Reasoning
+- Generation-Augmented Retrieval
+- Integration of the above areas with Reinforcement Learning (RL)
 
 
 # 🔥 News
