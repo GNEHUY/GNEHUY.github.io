@@ -25,8 +25,8 @@ My research interest includes:
 - Retrieval-Augmented Generation
 - Large Language Model for Retrieval
 
-Recent & Focused Explorations:
-- DeepResearch & AgenticRAG & Retrieval-Augmented Reasoning
+Recent Focused Explorations:
+- DeepResearch / AgenticRAG / Retrieval-Augmented Reasoning
 - Generation-Augmented Retrieval
 - Integration of the above areas with Reinforcement Learning (RL)
 
