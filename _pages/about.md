@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently pursuing a master's degree at the School of Artificial Intelligence and Data Science, University of Science and Technology of China.
+I am a master’s student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China, expected to graduate in 2027.  I received my bachelor’s degree from the School of Artificial Intelligence and Data Science, University of Science and Technology of China in 2024.
 
-I graduated from School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China with a bachelor’s degree.
+I am currently an Algorithm Intern at Douyin Search (ByteDance), building the next-generation search system through generative retrieval and agentic system. 
 
 My research interest includes:
 - Dense Retrieval
 - Retrieval-Augmented Generation
-- Large Language Model for Retrieval
+- Large Language Model for Retrieval(Generative Retrieval & Agentic Retrieval)
 
 Recent Focused Explorations:
 - DeepResearch / AgenticRAG / Retrieval-Augmented Reasoning
