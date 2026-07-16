@@ -55,9 +55,10 @@ Recent Focused Explorations:
 - *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 
 
 # 💻 Internships
+- *2026.05 - now*, Douyin Search, ByteDance, Beijing, China.
 - *2025.09 - 2026.01*, National Education Examinations Authority（NEEA）, China.
 - *2024.05 - 2024.07*, National Education Examinations Authority（NEEA）, China.
