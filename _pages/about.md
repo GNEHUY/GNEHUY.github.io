@@ -30,9 +30,8 @@ Recent Focused Explorations:
 - Generation-Augmented Retrieval
 - Integration of the above areas with Reinforcement Learning (RL)
 
-
-# 🔥 News
 <!--
+# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2026.04*: 🎉 One paper are accepted by ACL 2026
