@@ -23,7 +23,7 @@ I am currently an Algorithm Intern at Douyin Search (ByteDance), building the ne
 My research interest includes:
 - Dense Retrieval
 - Retrieval-Augmented Generation
-- Large Language Model for Retrieval(Generative Retrieval & Agentic Retrieval)
+- Large Language Model for Retrieval(Generative Retrieval and Agentic Retrieval)
 
 Recent Focused Explorations:
 - DeepResearch / AgenticRAG / Retrieval-Augmented Reasoning
