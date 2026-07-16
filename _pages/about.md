@@ -35,10 +35,14 @@ Recent Focused Explorations:
 <!--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
 - *2026.04*: 🎉 One paper are accepted by ACL 2026
 - *2025.11*: 🎉 One paper are accepted by AAAI 2026
 - *2025.07*: 🎉 Three papers are accepted by ACL 2025
+-->
+
+# 📖 Educations
+- *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
+- *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei. 
 
 # 📝 Publications 
 
@@ -51,14 +55,10 @@ Recent Focused Explorations:
 - ``ACL 2025`` [PQR: Improving Dense Retrieval via Potential Query Modeling](https://aclanthology.org/2025.acl-long.660.pdf), Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, Zheng Zhang, Junzhe Jiang, **Heng Yu**, Yu Su
 - ``ACL 2025`` [UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.693.pdf), Rui Li, Liyang He, Qi Liu, Zheng Zhang, **Heng Yu**, Yuyang Ye, Linbo Zhu, Yu Su
 
-# 📖 Educations
-- *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
-- *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei. 
-
 <!-- # 💬 Invited Talks -->
 
 
 # 💻 Internships
-- *2026.05 - now*, Douyin Search, ByteDance, Beijing, China.
+- *2026.05 - Present*, Douyin Search, ByteDance, Beijing, China.
 - *2025.09 - 2026.01*, National Education Examinations Authority（NEEA）, China.
 - *2024.05 - 2024.07*, National Education Examinations Authority（NEEA）, China.
