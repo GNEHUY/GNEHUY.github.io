@@ -40,7 +40,7 @@ Recent Focused Explorations:
 -->
 
 # 📖 Educations
-- *2024.09 - (now)*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
+- *2024.09 - Present*, Master, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei.  
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence and Data Science, Univeristy of Science and Technology of China, Hefei. 
 
 # 📝 Publications 
@@ -48,8 +48,8 @@ Recent Focused Explorations:
 <!--
 # 🎖 Honors and Awards
 -->
-- ``ACL 2026`` [Eval-RAR: Evaluation-Driven Retrieval-Augmented Reasoning via Reinforcement Learning](), **Heng Yu**, Rui Li, Qi Liu, Wenjun Feng, Junfeng Kang, Yi Zhan
-- ``AAAI 2026`` [Themis: Automated Constraint-Aware Test Synthesis Framework for Code Reinforcement Learning](), Shengyu Ye, Qi Liu, Hao Jiang, Zheng Zhang, **Heng Yu**, Zhenya Huang
+- ``ACL 2026`` [Eval-RAR: Evaluation-Driven Retrieval-Augmented Reasoning via Reinforcement Learning](https://aclanthology.org/2026.findings-acl.189/), **Heng Yu**, Rui Li, Qi Liu, Wenjun Feng, Junfeng Kang, Yi Zhan
+- ``AAAI 2026`` [Themis: Automated Constraint-Aware Test Synthesis Framework for Code Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/40741), Shengyu Ye, Qi Liu, Hao Jiang, Zheng Zhang, **Heng Yu**, Zhenya Huang
 - ``ACL 2025`` [CA-GAR: Context-Aware Alignment of LLM Generation for Document Retrieval](https://aclanthology.org/2025.findings-acl.303.pdf), **Heng Yu**, Junfeng Kang, Rui Li, Qi Liu, Liyang He, Zhenya Huang, Shuanghong Shen, Junyu Lu
 - ``ACL 2025`` [PQR: Improving Dense Retrieval via Potential Query Modeling](https://aclanthology.org/2025.acl-long.660.pdf), Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, Zheng Zhang, Junzhe Jiang, **Heng Yu**, Yu Su
 - ``ACL 2025`` [UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.693.pdf), Rui Li, Liyang He, Qi Liu, Zheng Zhang, **Heng Yu**, Yuyang Ye, Linbo Zhu, Yu Su
